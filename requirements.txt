@@ -1,0 +1,9 @@
+django
+djangorestframework
+pillow
+psycopg2-binary
+drf-yasg
+djangorestframework-simplejwt
+python-decouple
+django-filter
+
